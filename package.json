@@ -2,6 +2,27 @@
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@material-ui/icons": "^4.11.3",
+    "gh-pages": "^4.0.0",
     "react-digital-clock": "^0.1.2"
-  }
+  },
+  "name": "to-do-list",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sattvikdwivedi/To-Do-List.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sattvikdwivedi/To-Do-List/issues"
+  },
+  "homepage": "https://github.com/sattvikdwivedi/To-Do-List#readme",
+  "description": ""
 }
