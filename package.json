@@ -1,4 +1,5 @@
 {
+  "homepage": "https://sattvikdwivedi.github.io/To-Do-List/",
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@material-ui/icons": "^4.11.3",
@@ -23,6 +24,5 @@
   "bugs": {
     "url": "https://github.com/sattvikdwivedi/To-Do-List/issues"
   },
-  "homepage": "https://github.com/sattvikdwivedi/To-Do-List#readme",
   "description": ""
 }
